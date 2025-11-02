@@ -1,0 +1,10 @@
+Recall@1: 91.7897 - Recall@5: 97.5274 - Recall@10: 98.3648 - Recall@top1: 98.4546 - AP: 93.1112
+Recall@1: 94.5582 - Recall@5: 98.4361 - Recall@10: 98.8614 - Recall@top1: 98.9064 - AP: 95.4410
+Recall@1: 0.1426 - Recall@5: 0.5600 - Recall@10: 1.1174 - Recall@top1: 1.2204 - AP: 0.6165
+Recall@1: 0.0000 - Recall@5: 0.4596 - Recall@10: 0.6868 - Recall@top1: 0.9457 - AP: 0.3492
+Recall@1: 0.1347 - Recall@5: 0.6498 - Recall@10: 1.0752 - Recall@top1: 1.2204 - AP: 0.4942
+Recall@1: 0.0000 - Recall@5: 0.4438 - Recall@10: 0.7661 - Recall@top1: 0.9748 - AP: 0.3538
+Recall@1: 0.0000 - Recall@5: 0.4042 - Recall@10: 0.7291 - Recall@top1: 0.9219 - AP: 0.3470
+Recall@1: 0.0000 - Recall@5: 0.4808 - Recall@10: 0.8797 - Recall@top1: 1.0118 - AP: 0.3559
+Recall@1: 0.0000 - Recall@5: 0.4015 - Recall@10: 0.6049 - Recall@top1: 0.6974 - AP: 0.3372
+Recall@1: 0.0000 - Recall@5: 0.5125 - Recall@10: 0.7634 - Recall@top1: 0.8929 - AP: 0.3374
